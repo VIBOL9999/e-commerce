@@ -1,8 +1,8 @@
 @extends('main')
 @section('content')
     <div class="row">
-        <div class="col-lg-3 col-sm-12">
-            <div class="card p-3 bg-white mg-t-5"><i class="fa fa-apple"></i>
+        <div class="col-lg-3 col-sm-4">
+            <div class="card p-3 bg-white mg-t-5" style="margin-top: 30px"><i class="fa fa-apple"></i>
                 <div class="about-product text-center"><img src="https://i.imgur.com/3VTaSeb.png" width="300">
                     <div>
                         <h4>Believing is seeing</h4>
@@ -20,8 +20,8 @@
             </div>
         </div>
 
-        <div class="col-lg-3 col-sm-12">
-            <div class="card p-3 bg-white mg-t-5"><i class="fa fa-apple"></i>
+        <div class="col-lg-3 col-sm-4">
+            <div class="card p-3 bg-white mg-t-5" style="margin-top: 30px"><i class="fa fa-apple"></i>
                 <div class="about-product text-center"><img src="https://i.imgur.com/3VTaSeb.png" width="300">
                     <div>
                         <h4>Believing is seeing</h4>
@@ -38,8 +38,8 @@
                     <span>Price</span><span>$1000.00</span></div>
             </div>
         </div>
-        <div class="col-lg-3 col-sm-12">
-            <div class="card p-3 bg-white mg-t-5"><i class="fa fa-apple"></i>
+        <div class="col-lg-3 col-sm-4">
+            <div class="card p-3 bg-white mg-t-5" style="margin-top: 30px"><i class="fa fa-apple"></i>
                 <div class="about-product text-center"><img src="https://i.imgur.com/3VTaSeb.png" width="300">
                     <div>
                         <h4>Believing is seeing</h4>
@@ -56,8 +56,8 @@
                     <span>Price</span><span>$1000.00</span></div>
             </div>
         </div>
-        <div class="col-lg-3 col-sm-12">
-            <div class="card p-3 bg-white mg-t-5" style="margin-top: 100px"><i class="fa fa-apple"></i>
+        <div class="col-lg-3 col-sm-4">
+            <div class="card p-3 bg-white mg-t-5" style="margin-top: 30px"><i class="fa fa-apple"></i>
                 <div class="about-product text-center"><img src="https://i.imgur.com/3VTaSeb.png" width="300">
                     <div>
                         <h4>Believing is seeing</h4>
