@@ -17,5 +17,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/ecommerce', function () {
-    return view('main');
+    return view('menu.topmenu');
 });
