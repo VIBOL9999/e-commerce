@@ -11,7 +11,7 @@
 
         </div><!-- end Content Wrapper. Contains page content -->
 
-        <footer class="bg-white py-5">
+        <footer class="bg-white mt-5">
             <div class="container py-5">
                 <div class="row py-3">
                     <div class="col-lg-2 col-md-6 mb-4 mb-lg-0">
