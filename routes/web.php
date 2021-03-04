@@ -12,10 +12,11 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+// <<=============================================main page===========================================>>
 Route::get('/', function () {
-    return view('welcome');
+    return view('main');
 });
-Route::get('/ecommerce', function () {
-    return view('menu.topmenu');
+Route::get('/home', function () {
+    return view('page.product.phone');
 });
+
