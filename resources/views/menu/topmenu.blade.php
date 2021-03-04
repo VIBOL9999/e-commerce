@@ -14,7 +14,7 @@
                         <a class="nav-link " href="/home">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Link</a>
+                        <a class="nav-link" href="#">Promotions</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"data-bs-toggle="dropdown" aria-expanded="false">Product</a>
@@ -39,12 +39,13 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">About Us</a>
+                        <a class="nav-link" href="/about" tabindex="-1" aria-disabled="true">About Us</a>
                     </li>
                 </ul>
                 <form class="d-flex">
                     <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
                     <button class="btn btn-outline-success" type="submit">Search</button>
+                    <a class="align-middle" style="font-size: 25px" href="/account"><i class="fas fa-user-circle"></i></a>
                 </form>
             </div>
         </div>

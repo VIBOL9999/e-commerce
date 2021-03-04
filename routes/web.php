@@ -19,4 +19,7 @@ Route::get('/', function () {
 Route::get('/home', function () {
     return view('page.product.phone');
 });
+Route::get('/about', function () {
+    return view('page.about');
+});
 
