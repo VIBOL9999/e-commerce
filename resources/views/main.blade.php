@@ -10,16 +10,8 @@
             @yield('content')
 
         </div><!-- end Content Wrapper. Contains page content -->
-        <div class="container-fluid flex-grow-1 ">
-            <div class="row py-5">
-                <div class="col-lg-12 text-white text-center">
-                    <h1 class="display-3 ">Bootstrap footer</h1>
-                    <p class="lead mb-0">This footer is created by using Bootstrap.</p>
-                    <p class="lead py-3">Snippet by BBBootstrap.</p>
-                </div>
-            </div>
-        </div>
-        <footer class="bg-white">
+
+        <footer class="bg-white py-5">
             <div class="container py-5">
                 <div class="row py-3">
                     <div class="col-lg-2 col-md-6 mb-4 mb-lg-0">
@@ -78,15 +70,10 @@
                 </div>
             </div>
         </footer>
-                <!-- Control Sidebar -->
-        <aside class="control-sidebar control-sidebar-dark">
-            <!-- Control sidebar content goes here -->
-        </aside>
-  <!-- /.control-sidebar -->
 
-  <!-- Main Footer -->
+  <!-- Footer -->
     </div>
-@include('layout.footer')
+@include('layout.footer') {{-- include footer script --}}
 
 </body>
 
